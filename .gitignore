@@ -1,5 +1,6 @@
 examples/keystore
 __pycache__
+*.pyc
 .project
 .pydevproject
 .vscode/settings.json
