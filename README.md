@@ -1,5 +1,5 @@
-# boschshcpy
-Python3 package to access Bosch Smart Home Components (see https://github.com/BoschSmartHome/bosch-shc-api-docs)
+# boschshcpy(_1st-shot)
+**Warning: This package is deprecated and will be deleted soon. Please follow the new package [boschshcpy](https://github.com/tschamm/boschshcpy)**
 
 ## Usage guide:
 Before accessing the Bosch Smart Home Components, a client has to be registered on the controller. For this, a cert/key pair has to be provided to the controller. For starting the registration, press and hold the button on the controller until the led starts flashing.
